@@ -85,7 +85,6 @@ Below is a concise explanation of each column in the dataset so a reader underst
 - pandas, numpy for data manipulation
 - matplotlib, seaborn for visualization
 - scikit-learn for modeling and evaluation
-- nbconvert + selenium/webdriver-manager (for HTML→PDF export fallback)
 
 ---
 
@@ -102,5 +101,6 @@ Below is a concise explanation of each column in the dataset so a reader underst
 3. Run `analysis and cleaning.ipynb`; outputs include plots, model metrics, and a generated PDF report (`analysis_and_cleaning_printed.pdf`).
 
 ---
+
 
 
